@@ -6,3 +6,10 @@
 .cabecalho ul{
     display: flex;
 }
+.cabecalho img{
+    width: 10%;
+}
+
+.container{
+    background-image: url("./thgososo.jpg");
+}
