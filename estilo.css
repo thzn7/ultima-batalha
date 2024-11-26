@@ -1,0 +1,8 @@
+.cabecalho{
+    display: flex;
+    background-color: blue;
+}
+
+.cabecalho ul{
+    display: flex;
+}
